@@ -2,6 +2,5 @@
   "lang": "menhir",
   "url": "https://github.com/Kerl13/tree-sitter-menhir",
   "semver": false,
-  "parser_version": "be8866a6bcc2b563ab0de895af69daeffa88fe70",
-  "location": null
+  "parser_version": "be8866a6bcc2b563ab0de895af69daeffa88fe70"
 }
